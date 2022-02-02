@@ -2,6 +2,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedrohjn/intro-iot-systems/master)
 
+This repo serves as my answer for all homeworks in the course.
+
+## (Below is the course description)
+
 ## Course content:
 
 - Introduction to the IoT system
