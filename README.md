@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedrohjn/intro-iot-systems/master)
 
-This repo serves as my answer for all homeworks in the course.
+This repo serves as my answer for all homeworks in the course. Subject to corrections.
 
 ## (Below is the course description)
 
